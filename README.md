@@ -6,7 +6,7 @@ Placa utilizada en laboratorio con entradas y salidas de señales digitales. Ade
 <img src="https://github.com/guanucoluis/meca-minilab/blob/main/img/reverso.png" width="425" height="295">
 
 # Recursos
-La placa permite generar señales eléctricas como así también recibir señales desde circuitos externos. En la siguiente figura se pueden identificar los principales dispositivos disponibles como entradas/salidas de señales. Estos dispositivos pueden ser utilizados en forma individual como así también utilizarlo con un Arduino UNO. Para más información deben recurrir a la Wiki desde este [link](https://github.com/guanucoluis/meca-minilab/wiki/Wiki-del-Minilab#por-qu%C3%A9-se-dise%C3%B1%C3%B3-esta-placa).
+La placa permite generar señales eléctricas como así también recibir señales desde circuitos externos. El esqumático puede verse en este [PDF](https://github.com/guanucoluis/meca-minilab/blob/main/board/sch/minilab_Rev2.0.pdf). En la siguiente figura se pueden identificar los principales dispositivos disponibles como entradas/salidas de señales. Estos dispositivos pueden ser utilizados en forma individual como así también utilizarlo con un Arduino UNO. Para más información deben recurrir a la Wiki desde este [link](https://github.com/guanucoluis/meca-minilab/wiki/Wiki-del-Minilab#por-qu%C3%A9-se-dise%C3%B1%C3%B3-esta-placa).
 
 <img src="https://github.com/guanucoluis/meca-minilab/blob/main/img/entradas_salidas.png" width="480" height="238">
 
