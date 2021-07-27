@@ -2,8 +2,8 @@
 Placa utilizada en laboratorio con entradas y salidas de señales digitales. Además cuenta con señales analógicas. Muchos de estas E/S pueden ser integradas al desarrollo con Arudino UNO.
 
 # Vistas
-<img src="https://github.com/guanucoluis/meca-minilab/blob/main/img/frontal.png" width="480" height="238">
-<img src="https://github.com/guanucoluis/meca-minilab/blob/main/img/reverso.png" width="480" height="238">
+<img src="https://github.com/guanucoluis/meca-minilab/blob/main/img/frontal.png" width="425" height="295">
+<img src="https://github.com/guanucoluis/meca-minilab/blob/main/img/reverso.png" width="425" height="295">
 
 # Recursos
 La placa permite generar señales eléctricas como así también recibir señales desde circuitos externos. En la siguiente figura se pueden identificar los principales dispositivos disponibles como entradas/salidas de señales. Estos dispositivos pueden ser utilizados en forma individual como así también utilizarlo con un Arduino UNO. Para más información deben recurrir a la Wiki desde este [link](https://github.com/guanucoluis/meca-minilab/wiki/Wiki-del-Minilab#por-qu%C3%A9-se-dise%C3%B1%C3%B3-esta-placa).
